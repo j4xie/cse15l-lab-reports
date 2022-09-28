@@ -16,11 +16,11 @@
 2. one
 3. do it
 ---
-*listen it!*
+*watch it!*
 
 [link](https://www.youtube.com/watch?v=Jg1j5Ed_zt4)
 
->![Image]([http://url/a.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fthe-ascent%2Flove-a-feeling-or-a-choice-27abce792957&psig=AOvVaw3rCogn9mrJ93wzJz6drX05&ust=1664474024239000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODk7IqHuPoCFQAAAAAdAAAAABAD))
+>![Image](https://upload.wikimedia.org/wikipedia/commons/f/f9/LOVE.jpg)
 
 or I want type this code `love you` to give out all I have
 
