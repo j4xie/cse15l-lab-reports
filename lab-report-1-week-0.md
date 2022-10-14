@@ -17,7 +17,7 @@ when you open it, you will see this
 
 
 Log in to *[here](https://sdacs.ucsd.edu/~icc/index.php)* to make sure that we can record the password and username to a stick board. 
-	If you forget the password follow the procedure here
+	If you forget the password follow the procedure *[here](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 
 
 ---
@@ -28,9 +28,6 @@ Log in to *[here](https://sdacs.ucsd.edu/~icc/index.php)* to make sure that we c
 *notes: **download OpenSSH client***
 
 And then follow this *[step](https://code.visualstudio.com/docs/remote/ssh#_connect-to-a-remote-host)* to connect to the remote computer using VSCode’s remote option.
-
-
-![Image](https://github.com/j4xie/cse15l-lab-reports/blob/eba007f43174a143ed374857c2c6ea0013e5d8a7/Screen%20Shot%202022-09-30%20at%209.24.11%20PM.png)
 
 
 ---
