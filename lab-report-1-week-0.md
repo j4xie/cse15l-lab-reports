@@ -18,7 +18,6 @@ when you open it, you will see this
 
 Log in to *[here](https://sdacs.ucsd.edu/~icc/index.php)* to make sure that we can record the password and username to a stick board. 
 	If you forget the password follow the procedure here
-*[here](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)*
 
 
 ---
