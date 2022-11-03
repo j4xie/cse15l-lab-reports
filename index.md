@@ -7,4 +7,4 @@ Right below will be my lab reports
 
 [Lab report2](https://github.com/j4xie/cse15l-lab-reports/blob/b23fdc75fca69b513ed8c0739508d8afd3ace759/lab-report-weel-3.md)
 
-[Lab report3](https://github.com/j4xie/cse15l-lab-reports/blob/edf3a31c23e66ce3d37eac7d8e54f009bc84eebe/lab%20report%205.md)
+[Lab report3](https://github.com/j4xie/cse15l-lab-reports/blob/37fe7a7a2f8f5dfeca88747de3d2d6fc96104d44/lab%20report%205.md)
