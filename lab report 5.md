@@ -237,5 +237,3 @@ the input is `find ./technical/ -type f -size 100c        `
 the output is nothing found. 
 
 This command will use -size to search the file (-type f) which is exact 100bytes. However, since there is no file has the exact file size of 100c, the system will print nothing.
-
-
