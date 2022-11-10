@@ -7,4 +7,4 @@ Right below will be my lab reports
 
 [Lab report2](https://github.com/j4xie/cse15l-lab-reports/blob/b23fdc75fca69b513ed8c0739508d8afd3ace759/lab-report-weel-3.md)
 
-[Lab report3](lab report 5.md)
+[Lab report3]("lab report 5.md")
