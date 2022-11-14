@@ -9,3 +9,5 @@ Right below will be my lab reports
 [Lab report2](lab-report-weel-3.md)
 
 [Lab report3](labreport_5.md)
+
+[Lab report4](lab-report-week-7.md)
