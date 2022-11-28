@@ -79,17 +79,17 @@ fi
 ## screenshots for three different students' submission
 
 * **First student's submission:**
-https://github.com/ucsd-cse15l-f22/list-methods-signature
+[First Link](https://github.com/ucsd-cse15l-f22/list-methods-signature)
 ![image](screenshot-lab9/1.png)
 
 ---
 * **Second student's submission:**
-https://github.com/ucsd-cse15l-f22/list-methods-filename
+[Second Link](https://github.com/ucsd-cse15l-f22/list-methods-filename)
 ![image](screenshot-lab9/2.png)
 
 ---
 * **Third student's submission:**
-https://github.com/ucsd-cse15l-f22/list-methods-lab3
+[Third Link](https://github.com/ucsd-cse15l-f22/list-methods-lab3)
 ![image](screenshot-lab9/3.png)
 ---
 
