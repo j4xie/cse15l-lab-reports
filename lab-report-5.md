@@ -91,7 +91,6 @@ fi
 * **Third student's submission:**
 [Third Link](https://github.com/ucsd-cse15l-f22/list-methods-lab3)
 ![image](screenshot-lab9/3.png)
----
 
 ## Trace of `grade.sh`
 The following is for calling the `http://localhost:1299/grade?repo=https://github.com/ucsd-cse15l-f22/list-methods-signature`!!
